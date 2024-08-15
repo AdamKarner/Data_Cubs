@@ -1,0 +1,210 @@
+﻿Year,Street,From,To,Length,Facility,Status
+2024,16th,Central Park,Homan,0.25,Concrete Upgrade,Installed
+2024,16th,Spaulding,Kedzie,0.13,Concrete Upgrade,Installed
+2024,24th,Marshall,California,0.18,Protected Bike Lane,Installed
+2024,31st,Michigan,MLK,0.33,Concrete Upgrade,Installed
+2024,Ainslie,Rockwell,Lincoln,0.2,Neighborhood,Installed
+2024,Canal,Roosevelt,Taylor,0.18,Concrete Upgrade,Installed
+2024,Clark,Grand,Oak,0.62,Protected Bike Lane,Installed
+2024,Chicago,Grand,Western,0.67,Bike Lane,Installed
+2024,Damen,17th,14th,0.31,Protected Bike Lane,Installed
+2024,Dearborn,Division,Goethe,0.13,Bike Lane,Installed
+2024,Dearborn,Goethe,North,0.37,Neighborhood,Installed
+2024,Douglas,Independence,Sacramento,0.95,Concrete Upgrade,Installed
+2024,Franklin,Central Park,Sacramento,0.76,Concrete Upgrade,Installed
+2024,Francisco,Lawrence,Ainslie,0.14,Protected Bike Lane,Installed
+2024,Grand,Chicago,Damen,1.27,Protected Bike Lane,Installed
+2024,Jackson,Oakley,Hoyne,0.25,Concrete Upgrade,Installed
+2024,Jackson,Damen,Ogden,0.3,Concrete Upgrade,Installed
+2024,Kedzie,28th,Cermak,0.75,Bike Lane,Installed
+2024,Kilbourn,Belmont,Addison,0.52,Neighborhood,Installed
+2024,Rockwell,Argyle,Winnemac,0.05,Neighborhood,Installed
+2024,Taylor,Morgan,Canal,0.61,Concrete Upgrade,Installed
+2024,Winnemac,Rockwell,Leavitt,0.5,Neighborhood,Installed
+2023,115th,Major Taylor Trail,Union,0.3,Concrete Upgrade,Installed
+2023,119th,Ashland,Halsted,1.01,Concrete Upgrade,Installed
+2023,18th,Canal,Wentworth,0.36,Concrete Upgrade,Installed
+2023,28th,Kostner,Albany,1.64,Neighborhood,Installed
+2023,30th,Kostner,Albany,1.63,Neighborhood,Installed
+2023,31st,Wells,LaSalle,0.15,Concrete Upgrade,Installed
+2023,35th,Halsted,Railroad,0.52,Bike Lane,Installed
+2023,35th,Railroad,Wentworth,0.23,Protected Bike Lane,Installed
+2023,71st,Langley,Cottage Grove/South Chicago,0.16,Protected Bike Lane,Installed
+2023,81st,Damen,Racine,1,Neighborhood,Installed
+2023,81st,Halsted,Vincennes,0.45,Neighborhood,Installed
+2023,82nd,Ashland,Loomis,0.25,Neighborhood,Installed
+2023,83rd,State,Wabash,0.08,Protected Bike Lane,Installed
+2023,Argyle,Chicago River,Rockwell,0.49,Neighborhood,Installed
+2023,Armitage,Kedzie,Western,1,Bike Lane,Installed
+2023,Augusta,Western,Milwaukee,1.34,Protected Bike Lane,Installed
+2023,Augusta,Milwaukee,Throop,0.11,Access Path,Installed
+2023,Augusta,Throop,Elston,0.12,Shared Lane,Installed
+2023,Belmont,Kimball,Western/Clybourn,1.27,Protected Bike Lane,Installed
+2023,Belmont,Western/Clybourn,Ashland,0.99,Bike Lane,Installed
+2023,Berteau,Western,Lincoln,0.38,Neighborhood,Installed
+2023,Blue Island,18th,Roosevelt,0.75,Protected Bike Lane,Installed
+2023,Broadway,Montrose,Wilson,0.28,Concrete Upgrade,Installed
+2023,California,Milwaukee,Fullerton,0.13,Bike Lane,Installed
+2023,Central Park,Armitage,Fullerton,0.51,Bike Lane,Installed
+2023,Central Park,Madison,Franklin,0.67,Protected Bike Lane,Installed
+2023,Clark,Hollywood,Devon,0.99,Concrete Upgrade,Installed
+2023,Clark,Irving Park,Montrose,0.54,Protected Bike Lane,Installed
+2023,Clinton,Harrison,Fulton,0.86,Concrete Upgrade,Installed
+2023,Dearborn,Chicago,Delaware,0.15,Protected Bike Lane,Installed
+2023,Dearborn,Delaware,Walton,0.07,Buffered Bike Lane,Installed
+2023,Dearborn,Walton,Division,0.28,Bike Lane,Installed
+2023,Dearborn,Kinzie,Chicago,0.52,Protected Bike Lane,Installed
+2023,Desplaines,Harrison,Lake,0.79,Concrete Upgrade,Installed
+2023,Dickens,Magnolia,Stockton,1.1,Neighborhood,Installed
+2023,Grand,Central,Long,0.26,Concrete Upgrade,Installed
+2023,Halsted,26th,Lumber,0.34,Concrete Upgrade,Installed
+2023,Halsted,Fulton,Hubbard,0.23,Concrete Upgrade,Installed
+2023,Hamlin,33rd,Cermak,1.26,Neighborhood,Installed
+2023,Hamlin,Congress,Madison,0.44,Concrete Upgrade,Installed
+2023,Harrison,Halsted,Desplaines,0.17,Concrete Upgrade,Installed
+2023,Harrison,Ogden,Wood,0.17,Concrete Upgrade,Installed
+2023,Independence,Douglas,Congress,0.84,Concrete Upgrade,Installed
+2023,Jackson,Austin,Central,0.53,Concrete Upgrade,Installed
+2023,Jackson,Laflin,Halsted,0.88,Protected Bike Lane,Installed
+2023,Kedzie,Diversey,Elston,0.96,Protected Bike Lane,Installed
+2023,Lake,Kedzie,Damen,1.52,Concrete Upgrade,Installed
+2023,Lake,Laramie,Pulaski,1.53,Concrete Upgrade,Installed
+2023,Lake,Pine,Laramie,0.41,Concrete Upgrade,Installed
+2023,Laramie,Bloomingdale,Grand,0.26,Concrete Upgrade,Installed
+2023,Lavergne,Harrison,Le Moyne,2.27,Neighborhood,Installed
+2023,Lawrence,Central Park,Chicago River,0.84,Bike Lane,Installed
+2023,Leavitt,Diversey,Montrose/Lincoln,2.06,Neighborhood,Installed
+2023,Leavitt,Milwaukee,Lyndale,0.63,Neighborhood,Installed
+2023,Leavitt,Montrose/Lincoln,Berwyn,1.13,Neighborhood,Installed
+2023,Loomis,76th,71st,0.63,Concrete Upgrade,Installed
+2023,Loomis,Eleanor,Cermak,0.54,Concrete Upgrade,Installed
+2023,Loomis,Roosevelt,Harrison,0.5,Bike Lane,Installed
+2023,Magnolia,Clybourn,Dickens,0.12,Neighborhood,Installed
+2023,Major Taylor Trail,105th,95th,1.88,Neighborhood,Installed
+2023,Menard,Jackson,Lake,0.75,Neighborhood,Installed
+2023,Middle Randolph,Upper Randolph,DLSD,0.56,Concrete Upgrade,Installed
+2023,Milwaukee,North,Western,0.67,Protected Bike Lane,Installed
+2023,Milwaukee,Western,Armitage,0.08,Concrete Upgrade,Installed
+2023,MLK,100th,99th,0.15,Protected Bike Lane,Installed
+2023,MLK,99th,95th,0.5,Bike Lane,Installed
+2023,Pershing,Archer,Western,0.26,Bike Lane,Installed
+2023,Pershing,Western,Damen,0.49,Protected Bike Lane,Installed
+2023,Polk,Damen,Ashland,0.51,Concrete Upgrade,Installed
+2023,Racine,Clybourn/Cortland,Armitage,0.06,Protected Bike Lane,Installed
+2023,Randolph,Clinton,Michigan,0.87,Concrete Upgrade,Installed
+2023,Rockwell,Lawrence,Argyle,0.25,Neighborhood,Installed
+2023,Roscoe,Campbell,Western,0.1,Concrete Upgrade,Installed
+2023,State,26th,Cullerton,0.68,Concrete Upgrade,Installed
+2023,Vincennes,103rd,89th,1.84,Concrete Upgrade,Installed
+2023,Walton,Clark,Dearborn,0.08,Buffered Bike Lane,Installed
+2023,Washington,Wacker,Michigan,0.65,Concrete Upgrade,Installed
+2023,Wellington,Kimball,Kedzie,0.25,Neighborhood,Installed
+2023,Wells,Roosevelt,9th,0.24,Protected Bike Lane,Installed
+2022,100th,Ewing,Ave J,0.13,Neighborhood,Installed
+2022,26th,Pulaski,Sacramento,1.26,Bike Lane,Installed
+2022,63rd,Maryland,Stony Island,0.94,Bike Lane,Installed
+2022,Belmont,Ashland,Halsted,1,Bike Lane,Installed
+2022,Berwyn,NS Channel Trail,Western,0.76,Neighborhood,Installed
+2022,Berwyn,Western,Damen,0.5,Neighborhood,Installed
+2022,Chicago,Western,Ashland,1,Bike Lane,Installed
+2022,Commercial,100th,94th,0.76,Buffered Bike Lane,Installed
+2022,Diversey,Milwaukee,California,0.75,Buffered Bike Lane,Installed
+2022,Erie,Damen,Noble,0.76,Neighborhood,Installed
+2022,Exchange,83rd,79th,0.5,Bike Lane,Installed
+2022,Garfield/Morgan/Rainey,MLK,Cottage Grove,0.52,Protected Bike Lane,Installed
+2022,Grand,Narragansett,Meade,0.4,Buffered Bike Lane,Installed
+2022,Grand,Meade,Austin,0.13,Shared Lane,Installed
+2022,Grand,Austin,Central,0.52,Buffered Bike Lane,Installed
+2022,Grand,Central,Long,0.26,Protected Bike Lane,Installed
+2022,Grand,Long,Laramie,0.26,Buffered Bike Lane,Installed
+2022,Grand,Laramie,Armitage,0.13,Bike Lane,Installed
+2022,Hamlin,Congress,Madison,0.44,Protected Bike Lane,Installed
+2022,Hamlin,Madison,Washington,0.08,Bike Lane,Installed
+2022,Harrison,Central,Kostner,1.52,Bike Lane,Installed
+2022,Hirsch,Austin,Lavergne,1.26,Neighborhood,Installed
+2022,Homan,Cermak,Ogden,0.32,Shared Lane,Installed
+2022,Homan,Ogden,Roosevelt,0.71,Bike Lane,Installed
+2022,Jackson,Central,Laramie,0.5,Shared Lane,Installed
+2022,Kedzie,Elston,Foster,2.06,Bike Lane,Installed
+2022,Keeler,Cermak,Lake,2.37,Neighborhood,Installed
+2022,Keeler,33rd,Cermak,1.26,Neighborhood,Installed
+2022,Kenmore,Leland,Argyle,0.42,Neighborhood,Installed
+2022,Kinzie,Wells,Dearborn,0.23,Bike Lane,Installed
+2022,Kinzie,Dearborn,State,0.08,Shared Lane,Installed
+2022,Kinzie,Desplaines/Milwaukee,Wells,0.53,Concrete Upgrade,Installed
+2022,Lake,Pulaski,Kedzie,1.01,Concrete Upgrade,Installed
+2022,Laramie,Harrison,Ferdinand,1.13,Bike Lane,Installed
+2022,Laramie,Le Moyne,Bloomingdale,0.38,Bike Lane,Installed
+2022,Laramie,Bloomingdale,Grand/Armitage,0.26,Protected Bike Lane,Installed
+2022,Lawrence,Austin,Central,0.5,Bike Lane,Installed
+2022,Le Moyne,Austin,Lavergne,1.27,Neighborhood,Installed
+2022,Logan,Campbell,Diversey,0.48,Concrete Upgrade,Installed
+2022,Lyndale,Rockwell,Leavitt,0.53,Neighborhood,Installed
+2022,Milwaukee,Addison,Waveland,0.16,Protected Bike Lane,Installed
+2022,Milwaukee,Waveland,Irving Park,0.62,Concrete Upgrade,Installed
+2022,Milwaukee,Augusta,Division,0.37,Protected Bike Lane,Installed
+2022,Milwaukee,Chicago,Elston,0.07,Protected Bike Lane,Installed
+2022,Milwaukee,Hubbard,Ohio,0.22,Protected Bike Lane,Installed
+2022,MLK,76th,Marquette/67th,1.13,Bike Lane,Installed
+2022,Montrose,Damen,Clark,0.67,Bike Lane,Installed
+2022,Montrose,California,Western,0.5,Bike Lane,Installed
+2022,Polk,Pulaski,California,1.51,Neighborhood,Installed
+2022,Rockwell,Milwaukee,Logan,0.81,Neighborhood,Installed
+2022,Stony Island,59th,56th,0.38,Buffered Bike Lane,Installed
+2022,Sunnyside,Maplewood,Lincoln,0.38,Neighborhood,Installed
+2022,Winthrop,Leland,Argyle,0.42,Neighborhood,Installed
+2021,103rd,Longwood,Wood,0.19,Bike Lane,Installed
+2021,103rd,Wood,Prospect,0.26,Shared Lane,Installed
+2021,103rd,Prospect,Vincennes,0.31,Bike Lane,Installed
+2021,112th,Green Bay,State Line (Marina Illiana Trail),0.86,Buffered Bike Lane,Installed
+2021,119th,Ashland,Halsted,1.01,Protected Bike Lane,Installed
+2021,119th,Halsted,State,1,Bike Lane,Installed
+2021,14th,Kostner,Independence,0.75,Neighborhood,Installed
+2021,16th,Kilbourn,Central Park,1.13,Bike Lane,Installed
+2021,16th,Central Park,Homan,0.25,Protected Bike Lane,Installed
+2021,16th,Homan,Spaulding,0.13,Bike Lane,Installed
+2021,16th,Spaulding,Kedzie,0.13,Protected Bike Lane,Installed
+2021,16th,Kedzie,Albany,0.13,Bike Lane,Installed
+2021,71st,Jeffery,Exchange,0.51,Buffered Bike Lane,Installed
+2021,71st,Vincennes,State,0.16,Bike Lane,Installed
+2021,83rd,Cicero,Pulaski,1.01,Shared Lane,Installed
+2021,83rd,Pulaski,Columbus,0.45,Bike Lane,Installed
+2021,83rd,Perry,Wabash,0.15,Buffered Bike Lane,Installed
+2021,Armitage,Grand,Kedzie,2.39,Bike Lane,Installed
+2021,Austin,Grand,Diversey,0.73,Bike Lane,Installed
+2021,Austin,Diversey,Addison,1.01,Shared Lane,Installed
+2021,Broadway,Irving Park,Montrose,0.55,Shared Lane,Installed
+2021,Central,Fullerton,Addison,1.51,Bike Lane,Installed
+2021,Cermak,Kedzie,California,0.51,Buffered Bike Lane,Installed
+2021,Clark,Ashland,Devon,0.99,Protected Bike Lane,Installed
+2021,Cottage Grove,95th,93rd,0.25,Buffered Bike Lane,Installed
+2021,Damen,Elston,Diversey,0.45,Protected Bike Lane,Installed
+2021,Diversey,Narragansett,Laramie,1.51,Bike Lane,Installed
+2021,Douglas,Independence,Sacramento,0.88,Protected Bike Lane,Installed
+2021,Ewing,118th,114th,0.5,Neighborhood,Installed
+2021,Ewing,114th,106th,1,Buffered Bike Lane,Installed
+2021,Halsted,Fulton,Hubbard,0.23,Protected Bike Lane,Installed
+2021,Hamlin,Cermak,Douglas,0.73,Neighborhood,Installed
+2021,Independence,Douglas,Jackson,0.87,Protected Bike Lane,Installed
+2021,Independence Square,,,0.22,Neighborhood,Installed
+2021,Jackson,Austin,Central,0.53,Protected Bike Lane,Installed
+2021,Kedzie,Cortez,North,0.69,Bike Lane,Installed
+2021,Kedzie/Jersey,Foster,Lincoln,1.21,Bike Lane,Installed
+2021,Kilbourn,Wrightwood,Belmont,0.73,Neighborhood,Installed
+2021,Laramie,Grand/Armitage,Addison,2.01,Bike Lane,Installed
+2021,Logan,Campbell,Diversey,0.48,Protected Bike Lane,Installed
+2021,Longwood,119th,95th,3.07,Shared Lane,Installed
+2021,Loomis,Lyman,Eleanor,0.4,Shared Lane,Installed
+2021,Montrose,Kimball,California,0.76,Bike Lane,Installed
+2021,Montrose,Western,Damen,0.5,Bike Lane,Installed
+2021,Racine,Garfield,52nd,0.4,Bike Lane,Installed
+2021,Ridgeway,19th,Douglas,0.55,Neighborhood,Installed
+2021,Roscoe/Campbelll,Belmont,Western,0.37,Protected Bike Lane,Installed
+2021,Roscoe,Narragansett,Milwaukee,2.89,Neighborhood,Installed
+2021,Sacramento,Milwaukee,Elston,1.13,Bike Lane,Installed
+2021,State,98th,95th,0.37,Buffered Bike Lane,Installed
+2021,Taylor,Morgan,Canal,0.61,Protected Bike Lane,Installed
+2021,Wentworth,Cermak,19th,0.26,Buffered Bike Lane,Installed
+2021,Woodlawn,111th,Olive Harvey,1.45,Protected Bike Lane,Installed
+2021,Wrightwood,Narragansett,Keeler,2.81,Neighborhood,Installed
+2021,Wrightwood,Keeler,Pulaski,0.25,Protected Bike Lane,Installed
